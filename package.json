@@ -1,0 +1,20 @@
+{
+  "name": "async-landing-23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EnzoPrina/async-landing-23.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EnzoPrina/async-landing-23/issues"
+  },
+  "homepage": "https://github.com/EnzoPrina/async-landing-23#readme"
+}
